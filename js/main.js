@@ -46,3 +46,7 @@ var writeBerries = function (allBerries) {
   document.write('<dl>');
   });
 };
+
+writeBerries( [blueBerries] );
+writeBerries( [grapes] );
+writeBerries( [redCurrant] );

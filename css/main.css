@@ -19,8 +19,11 @@ html {
 
 dt {
     color: red;
+    font-family: sans-serif;
+    border-top-style: groove;
 }
 
 dd {
     color: blue;
+    text-align: center;
 }
